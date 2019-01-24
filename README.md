@@ -37,3 +37,5 @@ iPhone 5.5'' display size =>1242px × 2208px
 iPad Pro (3rd Gen) 12.9'' display size =>2048px × 2732px
 
 iPad Pro (2nd Gen) 12.9'' display size =>2048px × 2732px
+
+###### _Download blank pages for all sizes; [BlankPage.zip](https://github.com/furkancelik/xCode_LaunchImage_Size/blob/master/BlankPage.zip?raw=true)_
